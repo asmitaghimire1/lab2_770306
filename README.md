@@ -1,50 +1,38 @@
-Visual studio <br>
-Input/output handling, conditional statements, loops, arrays, and functions are just some of the fundamental coding concepts covered in this labsheet's fundamental C# programming exercises.
-
+Visual Studio <br>
+This labsheet's basic C# programming exercises cover essential coding concepts such as input/output handling, conditional statements, loops, arrays, and functions.
 
 Exercises
-1. Print "Hello World"
-A basic program that prints "Hello World!!" to the console.
+1. Display "Hello World"
+An introductory program that outputs "Hello World!!" to the console.
 
+2. Exchange Two Numbers
+Illustrates how to swap two integer values by using a temporary variable.
 
+3. Identify the Largest Number
+Evaluates three numbers to find the largest one using conditional statements.
 
-2. Swap Two Numbers
-Demonstrates swapping two integer values using a temporary variable.
+4. Determine Even or Odd Number
+Takes a number as input and checks if it is even or odd (note: fix required as the provided code gives incorrect output).
 
+5. Total of Natural Numbers
+Computes the total of all natural numbers up to a specified input number using a loop.
 
-3. Find the Greatest Number
-Compares three numbers and determines the greatest one using conditional statements.
+6. Factorial Calculation
+Calculates the factorial of a number provided by the user using iteration.
 
+7. Sum of Array Values
+Accepts an array of integers and calculates the sum of all its elements.
 
-4. Check Even or Odd Number
-Accepts a number as input and determines if it is even or odd (fix required: incorrect output in provided code).
+8. Determine Leap Year
+Assesses whether a given year qualifies as a leap year according to established criteria.
 
+9. Verify Prime Number
+Tests if a specified number is prime by checking its divisibility.
 
-5. Sum of Natural Numbers
-Calculates the sum of all natural numbers up to a given input number using a loop.
+How to Execute
 
+1) Launch Visual Studio and initiate a new Console Application project.
 
-6. Factorial of a Number
-Computes the factorial of a user-input number using iteration.
+2) Input the required code snippet into Program.cs.
 
-
-7. Sum of Array Elements
-Takes an array of integers and computes the sum of all elements.
-
-
-8. Check Leap Year
-Determines if a given year is a leap year based on standard conditions.
-
-
-9. Check Prime Number
-Checks if a given number is prime by testing divisibilit.
-
-
-
-How to Run
-
-1)Open Visual Studio and create a new Console Application project.
-
-2)Write the necessary code snippet into Program.cs.
-
-3)Press Ctrl + F5 to execute the program.
+3) Press Ctrl + F5 to run the program.
